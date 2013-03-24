@@ -1,0 +1,1 @@
+exports.baseTechPath = require.resolve('../../bem-bl/blocks-common/i-bem/bem/techs/html');
